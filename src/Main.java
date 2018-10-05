@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
     //test1
     //testKNA1
+    //Kristian er flot
     }
 }
