@@ -6,4 +6,10 @@ public class Main {
 
         // bug is fixed
     }
+
+
+    void test(){
+        System.out.println("hi");
+
+    }
 }
