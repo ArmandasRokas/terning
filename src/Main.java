@@ -4,6 +4,6 @@ public class Main {
 	// test
 
 
-        // arbejde på bug fix
+        // bug is fixed
     }
 }
