@@ -1,10 +1,10 @@
 public class Main {
 
     public static void main(String[] args) {
-	// test
-
-
-        // bug is fixed
+        // write your code here
+        //test1
+        //testKNA1
+        //Kristian er flot
     }
 
 
