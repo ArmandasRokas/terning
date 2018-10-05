@@ -10,6 +10,5 @@ public class Main {
 
     void test(){
         System.out.println("hi");
-
     }
 }
